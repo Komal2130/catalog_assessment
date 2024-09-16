@@ -1,9 +1,5 @@
 # catalog_assessment
 
-Certainly! Below is a sample `README.md` file for the polynomial constant term computation problem, detailing the problem statement, requirements, setup, and usage instructions.
-
----
-
 # Polynomial Constant Term Computation
 
 ## Problem Statement
@@ -204,10 +200,4 @@ const constantTerm = findConstantTerm(jsonInput);
 console.log("The constant term c is:", constantTerm);
 ```
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content based on specific project needs or additional details.
